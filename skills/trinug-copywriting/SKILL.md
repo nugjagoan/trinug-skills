@@ -1,3 +1,7 @@
+---
+name: trinug-copywriting
+description: Write any copywriting in the voice of @trinug — calm authority, practitioner-first, no hype. For Indonesian designers and design leaders.
+---
 # @trinug Copywriting Skill
 
 A Claude Code skill for writing Instagram content in the voice and style of
